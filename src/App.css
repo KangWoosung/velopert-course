@@ -1,0 +1,8 @@
+.gray-box {
+  background: gray;
+  width: 64px;
+  height: 64px;
+  color: aqua;
+  font-Size: 24px;
+  padding: 1rem;
+}
